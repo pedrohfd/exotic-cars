@@ -1,0 +1,107 @@
+[
+  {
+    "brand": "Alfa Romeo",
+    "type": "4c Spider",
+    "image": "https://storage.googleapis.com/cars-image/alfa-romeo-4c-spider.png",
+    "image@2x": "https://storage.googleapis.com/cars-image/alfa-romeo-4c-spider%402x.png",
+    "value": "725"
+  },
+  {
+    "brand": "Bentley",
+    "type": "Mulsanne",
+    "image": "https://storage.googleapis.com/cars-image/bentley-mulsanne.png",
+    "image@2x": "https://storage.googleapis.com/cars-image/bentley-mulsanne%402x.png",
+    "value": "844"
+  },
+  {
+    "brand": "BMW",
+    "type": "650i",
+    "image": "https://storage.googleapis.com/cars-image/bmw-650i.png",
+    "image@2x": "https://storage.googleapis.com/cars-image/bmw-650i%402x.png",
+    "value": "560"
+  },
+  {
+    "brand": "BMW",
+    "type": "Series 1",
+    "image": "https://storage.googleapis.com/cars-image/bmw-series-1.png",
+    "image@2x": "https://storage.googleapis.com/cars-image/bmw-series-1%402x.png",
+    "value": "503"
+  },
+  {
+    "brand": "Bugatti",
+    "type": "Chiron",
+    "image": "https://storage.googleapis.com/cars-image/bugatti-chiron.png",
+    "image@2x": "https://storage.googleapis.com/cars-image/bugatti-chiron%402x.png",
+    "value": "905"
+  },
+  {
+    "brand": "Chevrolet",
+    "type": "Corvette Targa",
+    "image": "https://storage.googleapis.com/cars-image/corvette-grand-sport-targa.png",
+    "image@2x": "https://storage.googleapis.com/cars-image/corvette-grand-sport-targa%402x.png",
+    "value": "836"
+  },
+  {
+    "brand": "Ferrari",
+    "type": "458 Italia",
+    "image": "https://storage.googleapis.com/cars-image/ferrari-458-italia-cote.png",
+    "image@2x": "https://storage.googleapis.com/cars-image/ferrari-458-italia-cote%402x.png",
+    "value": "645"
+  },
+  {
+    "brand": "Ferrari",
+    "type": "California",
+    "image": "https://storage.googleapis.com/cars-image/ferrari-california.png",
+    "image@2x": "https://storage.googleapis.com/cars-image/ferrari-california%402x.png",
+    "value": "913"
+  },
+  {
+    "brand": "Lamborghini",
+    "type": "Gallardo",
+    "image": "https://storage.googleapis.com/cars-image/lamborghini-gallardo.png",
+    "image@2x": "https://storage.googleapis.com/cars-image/lamborghini-gallardo.png",
+    "value": "784"
+  },
+  {
+    "brand": "McLaren",
+    "type": "600lt",
+    "image": "https://storage.googleapis.com/cars-image/mclaren-600lt.png",
+    "image@2x": "https://storage.googleapis.com/cars-image/mclaren-600lt%402x.png",
+    "value": "821"
+  },
+  {
+    "brand": "McLaren",
+    "type": "650s",
+    "image": "https://storage.googleapis.com/cars-image/mclaren-650s.png",
+    "image@2x": "https://storage.googleapis.com/cars-image/mclaren-650s%402x.png",
+    "value": "934"
+  },
+  {
+    "brand": "Mercedes",
+    "type": "C300 AMG",
+    "image": "https://storage.googleapis.com/cars-image/mercedes-C300-amg.png",
+    "image@2x": "https://storage.googleapis.com/cars-image/mercedes-C300-amg.png",
+    "value": "723"
+  },
+  {
+    "brand": "Porsche",
+    "type": "718 Cayman",
+    "image": "https://storage.googleapis.com/cars-image/porsche-718-cayman-gt4.png",
+    "image@2x": "https://storage.googleapis.com/cars-image/porsche-718-cayman-gt4.png",
+    "value": "763"
+  },
+  {
+    "brand": "Porsche",
+    "type": "911 gt3",
+    "image": "https://storage.googleapis.com/cars-image/porsche-911-gt3.png",
+    "image@2x": "https://storage.googleapis.com/cars-image/porsche-911-gt3%402x.png",
+    "value": "736"
+  },
+  {
+    "brand": "Rolls Royce",
+    "type": "Ghost",
+    "image": "https://storage.googleapis.com/cars-image/rolls-royce-ghost.png",
+    "image@2x": "https://storage.googleapis.com/cars-image/rolls-royce-ghost.png",
+    "value": "895"
+  }
+]
