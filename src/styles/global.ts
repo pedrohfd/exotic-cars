@@ -35,7 +35,7 @@ export const GlobalStyle = createGlobalStyle`
   }
 
   body {
-    background: var(--white);
+    background: var(--white-500);
     -webkit-font-smoothing: antialiased;
   }
 
