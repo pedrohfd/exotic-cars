@@ -3,6 +3,7 @@ import styled from 'styled-components'
 export const Container = styled.div`
   background: var(--gray-100);
 
+  height: 15rem;
   padding: 1rem 1.5rem;
   border-radius: 2rem;
 
@@ -18,12 +19,17 @@ export const Container = styled.div`
 
   img {
     width: 16rem;
-
     margin: 0.5rem 2.6rem;
   }
 
   label {
     display: flex;
     justify-content: end;
+    align-items: flex-end;
+    font-size: 1rem;
+
+    strong {
+      font-size: 1.5rem;
+    }
   }
 `

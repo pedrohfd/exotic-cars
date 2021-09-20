@@ -1,4 +1,5 @@
 import { Container } from './styles'
+import Link from 'next/link'
 
 interface CarProps {
   car: {

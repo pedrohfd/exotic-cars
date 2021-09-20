@@ -1,12 +1,17 @@
 import { Card } from '../Card'
-import { cars } from '../../../cars.json'
+import carsData from '../../../cars.json'
 import { Container } from './styles'
+import Link from 'next/link'
 
 export function Home() {
   return (
     <Container>
-      {cars.map(car => (
-        <Card car={car} key={car.type} />
+      {carsData.cars.map(car => (
+        <Link href={`/cars/${car.type}`} key={car.type}>
+          <a>
+            <Card car={car} />
+          </a>
+        </Link>
       ))}
     </Container>
   )
